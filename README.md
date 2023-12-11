@@ -1,9 +1,13 @@
 # Proyecto Final Modelos Generativos Profundos (MDS7203-1):
 
 Título: Bayesian Flow Networks (BFN).
+
 Integrantes: Arturo Lazcano y Javier Santidrián.
+
 Profesor: Felipe Tobar.
+
 Auxiliares: Cristobal Alcázar y Camilo Carvajal.
+
 Ayudantes: Joaquín Barceló.
 
 Este github ha sido creado para guiar el uso de BFN para la generación de dígitos (MNIST y MNIST modificado) en python. 
