@@ -15,6 +15,17 @@ En el repositorio se encuentra un archivo notebook que contiene todos los pasos 
 4. Entrenamiento de modelos.
 5. Prueba y sampleo de nuevos datos.
 
+Se destaca que la implementación fue inspirada y guiada por el siguiente trabajo previo: 
+
+https://github.com/Algomancer/Bayesian-Flow-Networks/blob/main/BFN_MNIST.ipynb
+
+Los aportes realizados fueron los siguientes:
+
+- Arturo Lazcano: Teoría del funcionamiento de BFN, entrenamiento y sampleo de datos.
+- Javier Santidrián: Teoría de datasets discretos binarizados y algoritmo de sampleo discreto. 
+
+
+
 
 
 
